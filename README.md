@@ -1,2 +1,2 @@
 # maven-repository
-个人maven仓库
+My personal maven repository
